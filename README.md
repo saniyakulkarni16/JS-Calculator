@@ -1,4 +1,5 @@
 🔢 Calculator Web App
+
 A simple, responsive Calculator built using HTML, CSS, and JavaScript. This project demonstrates the basics of DOM manipulation, user input handling, and UI styling for a fully functional calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 🚀 Features
